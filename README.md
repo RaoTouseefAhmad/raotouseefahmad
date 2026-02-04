@@ -43,24 +43,21 @@ clean architecture, scalability, and long-term maintainability.
 ---
 ## 🛠 Tech Stack
 
-<p align="center">
-  <!-- Core Languages & Platforms -->
-  ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-  ![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white)
-  ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-  ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-  
-  <br/>
+## 🛠 Tech Stack
 
-  <!-- Tools & Frameworks -->
-  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-  ![Xcode](https://img.shields.io/badge/Xcode-0A84FF?style=for-the-badge&logo=xcode&logoColor=white)
-  ![UIKit](https://img.shields.io/badge/UIKit-007AFF?style=for-the-badge&logo=apple&logoColor=white)
-  ![XML](https://img.shields.io/badge/XML-000000?style=for-the-badge&logo=xml&logoColor=white)
-  ![Jetpack](https://img.shields.io/badge/Android_Jetpack-4285F4?style=for-the-badge&logo=android&logoColor=white)
-</p>
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-0A84FF?style=for-the-badge&logo=xcode&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-007AFF?style=for-the-badge&logo=apple&logoColor=white)
+![XML](https://img.shields.io/badge/XML-000000?style=for-the-badge&logo=xml&logoColor=white)
+![Jetpack](https://img.shields.io/badge/Android_Jetpack-4285F4?style=for-the-badge&logo=android&logoColor=white)
+
 ---
 
 ## 📊 GitHub Activity Snapshot
