@@ -13,9 +13,9 @@
 
 <!-- Views & stats badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue" alt="Profile Views" />
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" />
+  <img src="https://komarev.com/ghpvc/?username=raotouseefahmad&style=for-the-badge&color=blue" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raotouseefahmad&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raotouseefahmad&layout=compact" />
 </p>
 
 ---
