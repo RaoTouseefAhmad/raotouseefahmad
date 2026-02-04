@@ -44,12 +44,8 @@ clean architecture, scalability, and long-term maintainability.
 
 ## 📊 GitHub Activity Snapshot
 
-<p align="center">
-  <img
-    src="https://metrics.lecoq.io/raotouseefahmad?template=classic&isocalendar=1&languages=1&activity=1"
-    alt="GitHub Metrics"
-  />
-</p>
+[![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=raotouseefahmad&theme=github)](https://github.com/raotouseefahmad)
+
 
 *(Live contribution, activity, and language usage overview)*
 
