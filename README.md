@@ -34,11 +34,34 @@ clean architecture, scalability, and long-term maintainability.
 - App Store & Play Store release workflows
 - Long-term maintenance & scaling
 
-### 🔌 Integrations
-- REST APIs
-- Firebase
-- AI-based features (on-device & API-driven)
-- Offline-first apps & local data storage
+### 🔌 Integrations & Systems
+
+- **AI & LLM Integrations**
+  - Large Language Models (LLMs) via API (OpenAI-based workflows)
+  - AI-powered features for content generation, analysis, and automation
+  - Hybrid AI usage: on-device processing combined with cloud inference
+  - Prompt-driven systems with structured and deterministic outputs
+
+- **Backend & API Integrations**
+  - RESTful APIs (secure, scalable, JSON-based)
+  - Authentication flows (JWT, token-based sessions)
+  - Third-party service integrations
+
+- **Mobile Backend Services**
+  - Firebase (Authentication, Firestore, Realtime Database)
+  - Cloud Functions & push notifications (FCM)
+  - Analytics, crash reporting, and performance monitoring
+
+- **Offline-First & Local Data**
+  - Offline-first application design
+  - Local storage (SQLite, Room, Core Data)
+  - Background sync and data conflict resolution
+
+- **Media & Device Capabilities**
+  - Audio processing and analysis
+  - Camera, file system, and device sensors
+  - Background tasks and lifecycle-aware services
+
 
 ---
 ## 🛠 Tech Stack
